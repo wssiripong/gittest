@@ -5,3 +5,5 @@ const func = () => {
 const func2 = () => {
   return 'hi';
 };
+
+const name = 'John';
