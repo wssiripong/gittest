@@ -7,3 +7,7 @@ const func = () => {
 const func1 = () => {
   return 'hello';
 };
+
+const func2 = () => {
+  return 'hi';
+};
