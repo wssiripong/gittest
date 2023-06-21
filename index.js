@@ -11,3 +11,4 @@ const func1 = () => {
 const func2 = () => {
   return 'hi';
 };
+const anme = 'asdfaskdl;fjasd;fk';
