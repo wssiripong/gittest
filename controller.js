@@ -8,3 +8,5 @@ const func2 = () => {
 };
 
 const name = 'John';
+
+const age = 29;
