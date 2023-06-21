@@ -3,3 +3,8 @@ const func = () => {
 };
 
 const lastname = 'james';
+const func2 = () => {
+  return 'hi';
+};
+
+const name = 'John';
